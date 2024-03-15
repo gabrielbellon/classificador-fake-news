@@ -1,2 +1,7 @@
-# classificador-fake-news
-Aplicação de métodos de aprendizado de máquina (AM) para identificar fake news.
+# Classificador de Notícias Falsas
+A propagação de notícias falsas, também conhecidas como *fake news*, é um problema recorrente na era digital. O surgimento das redes sociais e a facilidade crescente de compartilhamento de informações transformaram significativamente a maneira como as notícias são produzida e consumidas, visto que o compartilhamento de notícias sem a necessidade de verificação fez com que notícias falsas ou com meias-verdades se proliferassem rapidamente nos meios digitais. 
+
+Para contornar este problema, diversos estudos estão sendo realizados com o objetivo de detectar notícias não-confiáveis de forma automática, já que, por conta da enorme quantidade de notícias, realizar esta tarefa manualmente está cada vez mais difícil. Diante disso, esse trabalho apresenta uma análise das técnicas de uma das ferramentas mais poderosas para abordar esse desafio, o aprendizado de máquina (AM), aplicadas na detecção de notícias não-confiáveis. A base de dados empregada neste projeto foi produzida por um grupo de pesquisadores de múltiplas universidades estadunidenses, que se uniu para gerar um conjunto de dados rotulados em notícias confiáveis ou não. Experimentos conduzidos a partir dessa base de dados revelaram resultados satisfatórios, indicando que o método de regressão logística é promissor para a tarefa em questão.
+
+Instrução de uso:
+* Para acessar o notebook (código principal do projeto), basta abrir o arquivo **main.ipynb**.
